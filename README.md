@@ -1,5 +1,7 @@
 # Buddy Williams
 
+[Download PDF version here](https://github.com/buwilliams/resume/raw/main/Buddy%20Williams%20-%20Resume.pdf)
+
 ## Lead Full-stack Developer
 
 - Atlanta, GA 30318
